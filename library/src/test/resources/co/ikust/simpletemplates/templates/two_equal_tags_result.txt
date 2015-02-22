@@ -1,0 +1,3 @@
+Text before.
+        Some replacement text
+        Text in the middle. Some replacement text

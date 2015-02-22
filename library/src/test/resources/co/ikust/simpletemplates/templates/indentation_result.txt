@@ -1,0 +1,5 @@
+Text before.
+        Some replacement text. Second replacement line
+        Third replacemenet line
+        Text in the middle. Second replacement text
+                            Another replacement line
